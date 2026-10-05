@@ -7,7 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class FittrackApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(FittrackApplication.class, args);
 	}
+
 
 }
